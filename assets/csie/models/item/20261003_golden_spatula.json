@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/handheld",
   "textures": {
-    "layer0": "csie:item/golden_spatula"
+    "layer0": "csie:item/20261003_golden_spatula"
   }
 }

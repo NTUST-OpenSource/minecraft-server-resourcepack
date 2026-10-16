@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "csie:item/20261010_national_day_medal"
+  }
+}
